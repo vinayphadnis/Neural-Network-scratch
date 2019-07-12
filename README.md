@@ -5,10 +5,10 @@ The task here is to build a neural network with user specified number of layers 
 
 ### Checklist:
 
- - [ ] Implement a Network Class
- - [ ] Implement a Neuron Class
- - [ ] Implement a Connection Class
- - [ ] Add relation between Neurons
+ - [x] Implement a Network Class
+ - [x] Implement a Neuron Class
+ - [x] Implement a Connection Class
+ - [x] Add relation between Neurons
  - [ ] Implement program flow (Feed forward Neural Network)
 
 ### Future scope:
